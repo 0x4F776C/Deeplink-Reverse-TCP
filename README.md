@@ -1,4 +1,5 @@
 # Deeplink Reverse TCP
+Deeplink exploit with MSword 
 
 Things needed:
 * Microsoft word (preferably older versions)
