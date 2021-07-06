@@ -1,4 +1,4 @@
-# Deeplink Reverse TCP
+# Deeplink-Reverse-TCP
 Deeplink exploit with MSword 
 
 Things needed:
