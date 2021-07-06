@@ -1,11 +1,11 @@
 # Deeplink Reverse TCP
 
 Things needed:
-> Microsoft word (preferably older versions)
-> Notepad/Notepad++
-> Kali VM
-> Windows reverse_tcp payload
-> Windows VM
+>* Microsoft word (preferably older versions)
+>* Notepad/Notepad++
+>* Kali VM
+>* Windows reverse_tcp payload
+>* Windows VM
 
 ## Payload Creation & C2 setup
 1. Create a windows/meterpreter/reverse_tcp payload in kali linux
